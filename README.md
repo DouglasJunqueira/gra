@@ -53,6 +53,7 @@ outra para acessar o recurso:
 curl --request GET \
   --url http://localhost:5000/producers/intervals
 ```
+Também pode ser executada a Api através do [SWAGGER](http://localhost:5000/swagger-ui/index.html)
 
 ### Execução de testes
 As regras de validação consideram a inserção dos filmes iniciais listados através do CSV.
